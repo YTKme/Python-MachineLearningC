@@ -104,3 +104,12 @@ venv3/
 
 # mypy
 .mypy_cache/
+
+# 
+.ipynb_checkpoints
+
+# Data Files
+1-MachineLearningFoundationsACaseStudyApproach/Week-1/people-example.csv
+1-MachineLearningFoundationsACaseStudyApproach/Week-2/home_data.gl/
+1-MachineLearningFoundationsACaseStudyApproach/Week-3/amazon_baby.gl/
+1-MachineLearningFoundationsACaseStudyApproach/Week-4/people_wiki.gl/
