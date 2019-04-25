@@ -105,7 +105,7 @@ venv3/
 # mypy
 .mypy_cache/
 
-# 
+# iPython Notebook
 .ipynb_checkpoints
 
 # Data Files
@@ -113,3 +113,6 @@ venv3/
 1-MachineLearningFoundationsACaseStudyApproach/Week-2/home_data.gl/
 1-MachineLearningFoundationsACaseStudyApproach/Week-3/amazon_baby.gl/
 1-MachineLearningFoundationsACaseStudyApproach/Week-4/people_wiki.gl/
+1-MachineLearningFoundationsACaseStudyApproach/Week-5/song_data.gl/
+1-MachineLearningFoundationsACaseStudyApproach/Week-6/image_test_data/
+1-MachineLearningFoundationsACaseStudyApproach/Week-6/image_train_data/
