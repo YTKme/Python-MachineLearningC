@@ -116,3 +116,10 @@ venv3/
 1-MachineLearningFoundationsACaseStudyApproach/Week-5/song_data.gl/
 1-MachineLearningFoundationsACaseStudyApproach/Week-6/image_test_data/
 1-MachineLearningFoundationsACaseStudyApproach/Week-6/image_train_data/
+2-MachineLearningRegression/Week-1/Philadelphia_Crime_Rate_noNA.csv
+2-MachineLearningRegression/Week-1/kc_house_data.gl/
+2-MachineLearningRegression/Week-2/kc_house_data.gl/
+2-MachineLearningRegression/Week-3/kc_house_data.gl/
+
+# Miscellaneous
+*.zip
