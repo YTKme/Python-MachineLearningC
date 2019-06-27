@@ -123,6 +123,10 @@ venv3/
 2-MachineLearningRegression/Week-4/kc_house_data.gl/
 2-MachineLearningRegression/Week-5/kc_house_data.gl/
 2-MachineLearningRegression/Week-6/kc_house_data_small.gl/
+3-MachineLearningClassification/Week-1/amazon_baby.gl/
+3-MachineLearningClassification/Week-2/amazon_baby_subset.gl/
+3-MachineLearningClassification/Week-3/lending-club-data.gl/
+3-MachineLearningClassification/Week-4/lending-club-data.gl/
 
 # Miscellaneous
 *.zip
