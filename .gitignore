@@ -135,6 +135,12 @@ venv3/
 4-MachineLearningClusteringRetrieval/Week-2/people_wiki_map_index_to_word.gl/
 4-MachineLearningClusteringRetrieval/Week-2/people_wiki_map_index_to_word.json
 4-MachineLearningClusteringRetrieval/Week-2/people_wiki_tf_idf.npz
+4-MachineLearningClusteringRetrieval/Week-3/kmeans-arrays.npz
+4-MachineLearningClusteringRetrieval/Week-3/people_wiki.gl
+4-MachineLearningClusteringRetrieval/Week-3/people_wiki.csv
+4-MachineLearningClusteringRetrieval/Week-3/people_wiki_tf_idf.npz
+4-MachineLearningClusteringRetrieval/Week-3/people_wiki_map_index_to_word.json
+4-MachineLearningClusteringRetrieval/Week-3/people_wiki_map_index_to_word.gl
 
 # Miscellaneous
 *.zip
