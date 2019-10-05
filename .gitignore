@@ -141,6 +141,23 @@ venv3/
 4-MachineLearningClusteringRetrieval/Week-3/people_wiki_tf_idf.npz
 4-MachineLearningClusteringRetrieval/Week-3/people_wiki_map_index_to_word.json
 4-MachineLearningClusteringRetrieval/Week-3/people_wiki_map_index_to_word.gl
+4-MachineLearningClusteringRetrieval/Week-4/images.sf
+4-MachineLearningClusteringRetrieval/Week-4/chosen_images.png
+4-MachineLearningClusteringRetrieval/Week-4/images
+4-MachineLearningClusteringRetrieval/Week-4/people_wiki.gl
+4-MachineLearningClusteringRetrieval/Week-4/people_wiki.csv
+4-MachineLearningClusteringRetrieval/Week-4/4_tf_idf.npz
+4-MachineLearningClusteringRetrieval/Week-4/4_map_index_to_word.gl
+4-MachineLearningClusteringRetrieval/Week-5/people_wiki.gl
+4-MachineLearningClusteringRetrieval/Week-5/lda_assignment_topic_model
+4-MachineLearningClusteringRetrieval/Week-5/lda_high_alpha
+4-MachineLearningClusteringRetrieval/Week-5/lda_high_gamma
+4-MachineLearningClusteringRetrieval/Week-5/lda_low_alpha
+4-MachineLearningClusteringRetrieval/Week-5/lda_low_gamma
+4-MachineLearningClusteringRetrieval/Week-6/people_wiki.gl
+4-MachineLearningClusteringRetrieval/Week-6/people_wiki.csv
+4-MachineLearningClusteringRetrieval/Week-6/people_wiki_tf_idf.npz
+4-MachineLearningClusteringRetrieval/Week-6/people_wiki_map_index_to_word.gl
 
 # Miscellaneous
 *.zip
